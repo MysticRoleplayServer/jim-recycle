@@ -31,7 +31,7 @@ Config = {
 		searchTime = 3000,
 	},
 	DumpsterDiving = {
-		Enable = true,
+		Enable = false,
 		searched = { }, -- No Touch
 		skillcheck = "ps-ui", --"qb-lock", "ps-ui", "qb-skillbar", "ox_lib", nil
 		models = { -- The mighty list of dumpters/trash cans
